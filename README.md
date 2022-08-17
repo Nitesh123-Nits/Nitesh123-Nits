@@ -1,14 +1,16 @@
 # 💫 About Me:
 I am currently learning and working :
-<li>->front-end development</li>
-->JamStack
-->SEO 
-->Web Accessibility
-->UI/UX
-->Data Structure and Algorithm
-->OOPs
-->Operating System
-->DBMS
+<ol>
+<li>front-end development</li>
+<li>JamStack<li>
+<li>SEO<li>
+<li>Web Accessibility</li>
+<li>UI/UX</li>
+<li>Data Structure and Algorithm</li>
+<li>OOPs</li>
+<li>Operating System</li>
+<li>DBMS</li>
+</ol>
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niteshwebdev.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-kumar-sah-web-dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@niteshkumarrko.420) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NiteshK97721370) 
