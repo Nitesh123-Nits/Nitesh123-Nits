@@ -1,5 +1,5 @@
 # 💫 About Me:
-##I am currently learning and working :
+## I am currently learning and working :
 <ol>
 <li>front-end development</li>
 <li>JamStack</li><li>SEO</li><li>Web Accessibility</li><li>UI/UX</li><li>Data Structure and Algorithm</li><li>OOPs</li><li>Operating System</li><li>DBMS</li>
