@@ -2,7 +2,7 @@
 I am currently learning and working :
 <ol>
 <li>front-end development</li>
-<li>JamStack<li><li>SEO<li><li>Web Accessibility</li><li>UI/UX</li><li>Data Structure and Algorithm</li><li>OOPs</li><li>Operating System</li><li>DBMS</li>
+<li>JamStack</li><li>SEO</li><li>Web Accessibility</li><li>UI/UX</li><li>Data Structure and Algorithm</li><li>OOPs</li><li>Operating System</li><li>DBMS</li>
 </ol>
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niteshwebdev.pages.dev/)
