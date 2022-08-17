@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am currently learning and working :
-->front-end development
+<li>->front-end development</li>
 ->JamStack
 ->SEO 
 ->Web Accessibility
