@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/niteshnitian"><img src="https://api.daily.dev/devcards/709fd1ad60304ae9b07345e16364fced.png?r=y9v" width="400" alt="Niteshnitian's Dev Card"/></a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-kumar-sah-web-dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@niteshkumarrko.420) 
 
