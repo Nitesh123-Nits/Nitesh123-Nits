@@ -8,8 +8,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=Nitesh123-Nits&label=FrontendStorm&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
