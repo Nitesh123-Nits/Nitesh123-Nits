@@ -1,7 +1,7 @@
 # 💫 About Me:
-🛹 I am currently working on ReactJs/MongoDB/NodeJs/NextJs Project<br>👨‍💻 I am currently learning ReactJs/MongoDB/NodeJs/NextJs
+🛹 I am currently working on ReactJs/MongoDB/NodeJs/NextJs/SprigBoot/CassandraDB/Janusgraph Project<br>👨‍💻 I am currently learning ReactJs/MongoDB/NodeJs/NextJs
 
-
+<a href="https://app.daily.dev/niteshnitian"><img src="https://api.daily.dev/devcards/v2/2tiH8JBrM.png?r=jqx" width="356" alt="Niteshnitian's Dev Card"/></a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh--kumar--sah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@niteshnitian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NiteshK64436671) 
 
