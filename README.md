@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛹 I am currently working on ReactJs/MongoDB/NodeJs/NextJs/SprigBoot/CassandraDB/Janusgraph Project<br>👨‍💻 I am currently learning ReactJs/MongoDB/NodeJs/NextJs/SprigBoot/CassandraDB/Janusgraph
+🛹 I am currently  Learning HLD, LLD, Microservices, Domain Driven Design, Clean Code, Design Patterns and more such advance concepts.
 
 
 ## 🌐 Socials:
