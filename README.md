@@ -9,6 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nitesh123-nits.github.io/Nitesh-kumar-sah/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahnitesh54@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh--kumar--sah)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nitesh123-Nits/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devcookies)
@@ -136,7 +137,7 @@ Writing things down is how I learn. These repos are my public notebooks:
 
 ## 🤝 Let's connect
 
-I'm open to **SDE-2 / Senior Backend Engineer** opportunities (Java, Spring Boot, distributed systems), Pan-India or remote. See my [portfolio](https://nitesh123-nits.github.io/Nitesh-kumar-sah/) for the full picture; the fastest way to reach me is [LinkedIn](https://linkedin.com/in/nitesh--kumar--sah).
+I'm open to **SDE-2 / Senior Backend Engineer** opportunities (Java, Spring Boot, distributed systems), Pan-India or remote. See my [portfolio](https://nitesh123-nits.github.io/Nitesh-kumar-sah/) for the full picture; reach me at [sahnitesh54@gmail.com](mailto:sahnitesh54@gmail.com) or on [LinkedIn](https://linkedin.com/in/nitesh--kumar--sah).
 
 <div align="center">
 
