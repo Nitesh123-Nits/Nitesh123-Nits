@@ -55,8 +55,9 @@ I'm a **backend engineer with 3+ years of experience** designing and shipping Ja
 
 | Area | What I work with |
 |---|---|
-| **Backend** | Java 17, Spring Boot, Spring Cloud (Eureka, Config Server, API Gateway), Spring Security + JWT, Spring Scheduler |
-| **Architecture** | Microservices, event-driven design, async/parallel execution, distributed locking, retries & graceful degradation, layered clean architecture |
+| **Languages** | Java 17, JavaScript |
+| **Frameworks** | Spring Boot, Spring Cloud (Eureka, Config Server, API Gateway), Spring Security + JWT, Spring Scheduler, Spring AI, AngularJS |
+| **Architecture** | Microservices, event-driven architecture, distributed systems, async/parallel execution, distributed locking, retries & graceful degradation, layered clean architecture |
 | **Messaging** | Apache Kafka (consumer groups, job dispatch pipelines), RabbitMQ |
 | **Data** | MySQL, MongoDB, Redis (caching at critical layers) |
 | **Platform** | Docker, Kubernetes, Helm, Ansible, GitHub Actions, AWS (EC2, S3, RDS, IAM) |
@@ -68,17 +69,20 @@ I'm a **backend engineer with 3+ years of experience** designing and shipping Ja
 ## 💼 Experience
 
 ### Aditya Birla Capital · SDE · *Aug 2026 – Present* · Navi Mumbai
-- Re-architected API flows for **Fixed Deposit, DigiMetal (gold/silver) and SIP** from sequential DB / third-party calls to **parallel async execution**, cutting end-to-end latency.
-- Introduced **Redis caching** at critical layers to reduce DB round-trips and downstream load.
-- Refactored legacy code: broke up God classes, applied SOLID, moved to a clean layered architecture.
+- Re-architected **3 investment product API flows** (Fixed Deposit, DigiMetal gold/silver, SIP) from sequential DB / third-party calls to **parallel asynchronous execution**, cutting end-to-end latency.
+- Introduced **Redis caching** at critical layers to reduce database round-trips and downstream load.
+- Built APIs for business-driven **cohort-based banners** and **referral updates**.
+- Developed multiple **scheduler APIs** for lead management workflows.
+- Refactored legacy modules: broke up God classes, applied **SOLID** principles and a clean layered architecture.
 
 ### Jio Platforms · SDE · *Oct 2023 – Aug 2026* · Navi Mumbai
-- Built **Spring Boot microservices** for the provision / modify / delete lifecycle of enterprise VPN networking products.
-- Designed a **Kafka-based job dispatch pipeline** operating across **thousands of enterprise devices**.
-- Built a config & automation engine that generates device configs and IPs, giving a **20% operational efficiency gain**.
-- Delivered a resilient provisioning service for real-time config / password updates with **retries and graceful failure handling**.
-- Secured services with **JWT + Spring Security**; tuned CRUD paths for a **75% performance improvement**.
-- Containerised services with **Docker + Kubernetes**, reaching **2× throughput at peak load**.
+- Improved CRUD performance by **75%** and secured services with **JWT + Spring Security**.
+- Achieved **2× throughput at peak load** by containerising services with **Docker + Kubernetes**.
+- Improved operational efficiency by **20%** with a configuration & automation engine that generates device configs and IP allocations.
+- Designed a **Kafka-based job dispatch pipeline** distributing work across **thousands of enterprise devices**.
+- Built **Spring Boot microservices** managing the full lifecycle (provision, modify, delete) of enterprise VPN networking products.
+- Built a resilient provisioning service for real-time config / password updates with **retries and graceful failure handling**.
+- Diagnosed and resolved numerous **production issues** across backend microservices, keeping customer-facing services stable.
 
 ---
 
@@ -86,7 +90,7 @@ I'm a **backend engineer with 3+ years of experience** designing and shipping Ja
 
 ### Flagship system
 **Distributed Device Configuration Backup Scheduler** — *Java 17 · Spring Boot · Kafka · Ansible · Kubernetes*
-A scheduler that triggers daily per-device config backups through **Kafka consumer groups**, with **Ansible** fetching versioned config snapshots. Uses a **distributed lock** so only one scheduler instance publishes (no duplicate jobs), plus retries, failure alerting and a REST API for per-device status. My personal rebuild of a production problem I worked on, with full observability (OpenTelemetry, Prometheus, Grafana).
+A scheduler that runs daily per-device backup jobs with **Spring Scheduler** and distributes them through **Kafka consumer groups**, with **Ansible** fetching versioned config snapshots. Uses a **distributed lock** so only one scheduler instance publishes (no duplicate jobs), plus retries, failure alerting and a REST API for per-device status. My personal rebuild of a production problem I worked on, with full observability (OpenTelemetry, Prometheus, Grafana).
 
 ### 🌐 Live apps (installable PWAs)
 
