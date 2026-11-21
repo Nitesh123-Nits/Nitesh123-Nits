@@ -59,7 +59,7 @@ I'm a **backend engineer with 3+ years of experience** designing and shipping Ja
 | **Data** | MySQL, MongoDB, Redis (caching at critical layers) |
 | **Platform** | Docker, Kubernetes, Helm, Ansible, GitHub Actions, AWS (EC2, S3, RDS, IAM) |
 | **Observability** | OpenTelemetry, Prometheus, Grafana, Loki, Tempo |
-| **AI** | Spring AI, LLM integration, RAG |
+| **AI** | Spring AI, LLM integration, RAG, agentic workflows (LangGraph), Python / FastAPI |
 
 ---
 
@@ -92,11 +92,11 @@ A scheduler that triggers daily per-device config backups through **Kafka consum
 |---|---|
 | [**faang-roadmap**](https://github.com/Nitesh123-Nits/faang-roadmap) · [live](https://nitesh123-nits.github.io/faang-roadmap/) | Installable PWA for tracking FAANG-style interview prep, with light/dark mode and a customisable roadmap |
 | [**Java-Field-Manual-Backend**](https://github.com/Nitesh123-Nits/Java-Field-Manual-Backend) | Study site covering Java concurrency, Spring Boot, microservices, distributed systems, Kafka and Redis |
-| [**Springboot-FullStcak-Ecommerce-Application**](https://github.com/Nitesh123-Nits/Springboot-FullStcak-Ecommerce-Application) | Full-stack e-commerce application on Spring Boot |
-| [**Enterprise-Knowledge-Orchestrator**](https://github.com/Nitesh123-Nits/Enterprise-Knowledge-Orchestrator) | Enterprise knowledge orchestration project |
-| [**spring-ai-projects**](https://github.com/Nitesh123-Nits/spring-ai-projects) | Hands-on Spring AI experiments |
-| [**chat-service**](https://github.com/Nitesh123-Nits/chat-service) | Chat service backend |
-| [**Inter-Service-Communication**](https://github.com/Nitesh123-Nits/Inter-Service-Communication) | Patterns for service-to-service calls in microservices |
+| [**Springboot-FullStcak-Ecommerce-Application**](https://github.com/Nitesh123-Nits/Springboot-FullStcak-Ecommerce-Application) | Multi-role e-commerce platform: Spring Boot 3 + PostgreSQL + React, JWT with user / seller / admin roles, Stripe payments, OpenAPI docs |
+| [**Enterprise-Knowledge-Orchestrator**](https://github.com/Nitesh123-Nits/Enterprise-Knowledge-Orchestrator) | Agentic AI platform: a LangGraph supervisor routes questions between a SQL agent and a FAISS-based RAG agent; FastAPI + React |
+| [**spring-ai-projects**](https://github.com/Nitesh123-Nits/spring-ai-projects) | Spring AI + OpenAI apps: chat, image generation, recipe generator and audio transcription, with React front-ends |
+| [**chat-service**](https://github.com/Nitesh123-Nits/chat-service) | One-to-one chat over REST and STOMP WebSockets with stable cursor-based pagination and authorisation checks |
+| [**Inter-Service-Communication**](https://github.com/Nitesh123-Nits/Inter-Service-Communication) | Blog series on service-to-service calls in Spring Boot: RestTemplate, RestClient, WebClient, Feign, HTTP Exchange |
 | [**Kubernetes-helm**](https://github.com/Nitesh123-Nits/Kubernetes-helm) · [**helm-chart**](https://github.com/Nitesh123-Nits/helm-chart) | Kubernetes and Helm deployment practice |
 
 ### Engineering notes & guides
