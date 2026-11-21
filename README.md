@@ -88,12 +88,34 @@ I'm a **backend engineer with 3+ years of experience** designing and shipping Ja
 **Distributed Device Configuration Backup Scheduler** — *Java 17 · Spring Boot · Kafka · Ansible · Kubernetes*
 A scheduler that triggers daily per-device config backups through **Kafka consumer groups**, with **Ansible** fetching versioned config snapshots. Uses a **distributed lock** so only one scheduler instance publishes (no duplicate jobs), plus retries, failure alerting and a REST API for per-device status. My personal rebuild of a production problem I worked on, with full observability (OpenTelemetry, Prometheus, Grafana).
 
+### 🌐 Live apps (installable PWAs)
+
+| App | What it is | Links |
+|---|---|---|
+| **DevTube** | YouTube-style PWA for engineers: developer-only feed, reels, podcasts, notes and watch-later across Java, system design, DevOps, cloud and AI | [Live](https://nitesh123-nits.github.io/DevTube/) · [Code](https://github.com/Nitesh123-Nits/devtube) |
+| **Akshar Aangan** | Ad-free learning site for kids (Nursery to Class 3): Hindi and English letters with sounds, barakhadi, maths, rhymes, colouring and drawing | [Live](https://nitesh123-nits.github.io/akshar-aangan/) · [Code](https://github.com/Nitesh123-Nits/akshar-aangan) |
+| **Nanhi Seekh (Kidstube)** | Kid-safe learning-video PWA with whitelisted English and Hindi videos, no search, no outbound links | [Live](https://nitesh123-nits.github.io/kidstube/) · [Code](https://github.com/Nitesh123-Nits/kidstube) |
+| **Java Backend Field Manual** | Study site for Java concurrency, Spring Boot, microservices, distributed systems, Kafka and Redis | [Live](https://nitesh123-nits.github.io/Java-Field-Manual-Backend/) · [Code](https://github.com/Nitesh123-Nits/Java-Field-Manual-Backend) |
+| **FAANG Run 2027** | Interview-prep tracker with a customisable roadmap | [Live](https://nitesh123-nits.github.io/faang-roadmap/) · [Code](https://github.com/Nitesh123-Nits/faang-roadmap) |
+| **JobHub** | Every job board in one place | [Live](https://nitesh123-nits.github.io/Job-Hub/) · [Code](https://github.com/Nitesh123-Nits/job-hub) |
+
+### 🧠 Microservices & AI skills
+
+| Skill | Project |
+|---|---|
+| Event-driven microservices | [Distributed Device Config Backup Scheduler](#flagship-system) · Kafka, Kubernetes, distributed locking |
+| Service communication | [Inter-Service-Communication](https://github.com/Nitesh123-Nits/Inter-Service-Communication) · RestTemplate, WebClient, Feign |
+| Real-time systems | [chat-service](https://github.com/Nitesh123-Nits/chat-service) · STOMP WebSockets, cursor pagination |
+| Full-stack Spring Boot | [Springboot-FullStcak-Ecommerce-Application](https://github.com/Nitesh123-Nits/Springboot-FullStcak-Ecommerce-Application) · JWT roles, Stripe |
+| Agentic AI / RAG | [Enterprise-Knowledge-Orchestrator](https://github.com/Nitesh123-Nits/Enterprise-Knowledge-Orchestrator) · LangGraph, FAISS, FastAPI |
+| Spring AI | [spring-ai-projects](https://github.com/Nitesh123-Nits/spring-ai-projects) · chat, image, audio, recipe generator |
+
 ### Open-source repos
 
 | Project | What it is |
 |---|---|
 | [**faang-roadmap**](https://github.com/Nitesh123-Nits/faang-roadmap) · [live](https://nitesh123-nits.github.io/faang-roadmap/) | Installable PWA for tracking FAANG-style interview prep, with light/dark mode and a customisable roadmap |
-| [**Java-Field-Manual-Backend**](https://github.com/Nitesh123-Nits/Java-Field-Manual-Backend) | Study site covering Java concurrency, Spring Boot, microservices, distributed systems, Kafka and Redis |
+| [**Java-Field-Manual-Backend**](https://github.com/Nitesh123-Nits/Java-Field-Manual-Backend) · [live](https://nitesh123-nits.github.io/Java-Field-Manual-Backend/) | Study site covering Java concurrency, Spring Boot, microservices, distributed systems, Kafka and Redis |
 | [**Springboot-FullStcak-Ecommerce-Application**](https://github.com/Nitesh123-Nits/Springboot-FullStcak-Ecommerce-Application) | Multi-role e-commerce platform: Spring Boot 3 + PostgreSQL + React, JWT with user / seller / admin roles, Stripe payments, OpenAPI docs |
 | [**Enterprise-Knowledge-Orchestrator**](https://github.com/Nitesh123-Nits/Enterprise-Knowledge-Orchestrator) | Agentic AI platform: a LangGraph supervisor routes questions between a SQL agent and a FAISS-based RAG agent; FastAPI + React |
 | [**spring-ai-projects**](https://github.com/Nitesh123-Nits/spring-ai-projects) | Spring AI + OpenAI apps: chat, image generation, recipe generator and audio transcription, with React front-ends |
