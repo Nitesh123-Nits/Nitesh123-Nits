@@ -92,9 +92,9 @@ A scheduler that triggers daily per-device config backups through **Kafka consum
 
 | App | What it is | Links |
 |---|---|---|
-| **DevTube** | YouTube-style PWA for engineers: developer-only feed, reels, podcasts, notes and watch-later across Java, system design, DevOps, cloud and AI | [Live](https://nitesh123-nits.github.io/DevTube/) · [Code](https://github.com/Nitesh123-Nits/devtube) |
+| **DevTube** | YouTube-style PWA for engineers: developer-only feed, reels, podcasts, notes and watch-later across Java, system design, DevOps, cloud and AI | [Live](https://nitesh123-nits.github.io/Devtube/) · [Code](https://github.com/Nitesh123-Nits/Devtube) |
 | **Akshar Aangan** | Ad-free learning site for kids (Nursery to Class 3): Hindi and English letters with sounds, barakhadi, maths, rhymes, colouring and drawing | [Live](https://nitesh123-nits.github.io/akshar-aangan/) · [Code](https://github.com/Nitesh123-Nits/akshar-aangan) |
-| **Nanhi Seekh (Kidstube)** | Kid-safe learning-video PWA with whitelisted English and Hindi videos, no search, no outbound links | [Live](https://nitesh123-nits.github.io/kidstube/) · [Code](https://github.com/Nitesh123-Nits/kidstube) |
+| **Nanhi Seekh (Kidstube)** | Kid-safe learning-video PWA with whitelisted English and Hindi videos, no search, no outbound links | [Live](https://nitesh123-nits.github.io/Kidstube/) · [Code](https://github.com/Nitesh123-Nits/Kidstube) |
 | **Java Backend Field Manual** | Study site for Java concurrency, Spring Boot, microservices, distributed systems, Kafka and Redis | [Live](https://nitesh123-nits.github.io/Java-Field-Manual-Backend/) · [Code](https://github.com/Nitesh123-Nits/Java-Field-Manual-Backend) |
 | **FAANG Run 2027** | Interview-prep tracker with a customisable roadmap | [Live](https://nitesh123-nits.github.io/faang-roadmap/) · [Code](https://github.com/Nitesh123-Nits/faang-roadmap) |
 | **JobHub** | Every job board in one place | [Live](https://nitesh123-nits.github.io/Job-Hub/) · [Code](https://github.com/Nitesh123-Nits/job-hub) |
